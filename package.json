@@ -1,7 +1,7 @@
 {
-  "name": "webpack",
+  "name": "mr-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "MR Webpack test project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mahfuz-Rahman/mr-webpack/issues"
   },
-  "homepage": "https://github.com/Mahfuz-Rahman/mr-webpack#readme"
+  "homepage": "https://github.com/Mahfuz-Rahman/mr-webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.5.1"
+  }
 }
